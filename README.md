@@ -13,8 +13,7 @@ Train on 60000 samples, validation on 10000 samples
 Parameter tuning needed. filter sizes need to change, code can be optimized for computation. Soon I will upload a new code, with better amalgam of networks and parameters.
 
 ### Model Summary
-
-### Layer (type)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 Output Shape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Param   
+#### Layer (type)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 Output Shape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Param   
 
 conv2d_1 (Conv2D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            (None, 22, 22, 100)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       5000  
 conv2d_2 (Conv2D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            (None, 19, 19, 10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        16010     
